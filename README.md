@@ -2,7 +2,7 @@
 
 Animated pixel-art Clawd GIFs for a personal Discord Rich Presence that shows what Claude Code is doing.
 
-![All twelve animations](preview.gif)
+![All the animations](preview.gif)
 
 | File | Shown while Claude is… |
 |---|---|
@@ -18,6 +18,7 @@ Animated pixel-art Clawd GIFs for a personal Discord Rich Presence that shows wh
 | `clawd-subagents.gif` | running subagents |
 | `clawd-planning.gif` | planning |
 | `clawd-browser.gif` | using the browser |
+| `clawd-waiting.gif` | waiting for you: a question, an approval, or a reply that ends in a question |
 
 Each is 1080×1080 at 50 fps and loops seamlessly. They were drawn in code to match the style of the Clawd animations used by [claude-rpc](https://github.com/rar-file/claude-rpc).
 
